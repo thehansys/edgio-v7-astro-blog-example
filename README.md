@@ -23,7 +23,7 @@ npm install
 ```
 Optionally, you can install the CLI package globally by running:
 ```bash
-npm install -g @edgio/cli`
+npm install -g @edgio/cli
 ```
 
 ### Run the Astro app locally on Edgio

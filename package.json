@@ -1,0 +1,28 @@
+{
+  "name": "edgio-v7-astro-blog-example",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "edgio:dev": "edgio dev",
+    "edgio:build": "edgio build",
+    "edgio:deploy": "edgio deploy",
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^0.19.7",
+    "@astrojs/rss": "^2.4.4",
+    "@astrojs/sitemap": "^2.0.2",
+    "astro": "^2.10.9"
+  },
+  "devDependencies": {
+    "@edgio/astro": "7.1.2-next-1692275186-47e720c.0",
+    "@edgio/cli": "7.1.2-next-1692275186-47e720c.0",
+    "@edgio/core": "7.1.2-next-1692275186-47e720c.0",
+    "@edgio/devtools": "7.1.2-next-1692275186-47e720c.0",
+    "@edgio/prefetch": "7.1.2-next-1692275186-47e720c.0"
+  }
+}
